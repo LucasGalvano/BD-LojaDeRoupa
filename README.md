@@ -50,6 +50,15 @@ Este projeto foi desenvolvido como parte da disciplina de **Banco de Dados**, ut
 2. Navegue até o diretório do projeto:
       cd BD-LojaDeRoupa
  ---
+### 📂 Estrutura do Projeto
+ BD-LojaDeRoupa/
+ - LojaDeRoupas.sql
+    - Script SQL com a criação do banco de dados, tabelas e inserção de dados
+ - Relatório Projeto Banco de Dados.pdf
+    - Documentação completa do projeto
+ - README.md
+    - Este arquivo
+ ---
 ### 📊 Exemplos de Consultas
 As consultas podem não estar perfeitamente formatadas no GitHub, mas devem funcionar corretamente.
 1. Listar roupas em promoção:
